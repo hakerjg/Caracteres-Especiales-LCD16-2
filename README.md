@@ -1,6 +1,6 @@
-# **Caracteres-Especiales-LCD-16-2**
-
-
+# Caracteres-Especiales-LCD-16-2
+# **SUSCRIBETE!!**
+# www.youtube.com/@electro_arduino
 ## **PARA SU FUNCIONAMIENTO**
 
 ***1.- DESCARGAR DEL REPOSITORIO EL ARCHIVO "CREAR CARACTERES PARA LCD.py"***
