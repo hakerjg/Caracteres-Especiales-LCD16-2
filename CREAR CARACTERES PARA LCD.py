@@ -1,4 +1,6 @@
-#CREADO POR @electro_arduino
+# CREADO POR @electro_arduino
+# SUSCRIBETE!!
+# www.youtube.com/@electro_arduino
 import tkinter as tk
 
 def toggle_pixel(pixel):
