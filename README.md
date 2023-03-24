@@ -25,3 +25,5 @@ https://www.python.org/ftp/python/3.10.10/python-3.10.10-amd64.exe
 
 
 # **PARA VER EL TUTORIAL COMO FUNCIONA DALE CLICK AQUI**
+
+https://youtu.be/2zt4TUoMplM
